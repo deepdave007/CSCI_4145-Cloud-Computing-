@@ -1,3 +1,6 @@
+/*Simple tutorial for GET and POST requests on a local server built using tutorial material from Mosh's RESTful APIs using Node.js and Expressjs
+, I used the Joi.js API for the input authentication purposes*/
+
 const joi = require('joi');
 const express = require('express');
 const app = express();
